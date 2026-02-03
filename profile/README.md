@@ -1,6 +1,6 @@
 ## AWS Cloud Infrastructure Portfolio
 
-This repository contains hands-on AWS cloud infrastructure and automation projects demonstrating how to design, deploy, and operate secure and reliable cloud environments, with a focus on IAM, networking, logging and monitoring, automation, and incident response.
+This repository contains hands-on AWS cloud infrastructure and automation projects demonstrating how to design, deploy and operate secure and reliable cloud environments, with a focus on IAM, networking, logging and monitoring, automation and incident response.
 
 ---
 
@@ -21,7 +21,7 @@ This repository contains hands-on AWS cloud infrastructure and automation projec
 
 ## Notes
 
-These projects were developed for portfolio purposes to demonstrate practical experience with AWS cloud infrastructure, automation, monitoring, and troubleshooting in realistic environments.
+These projects were developed for portfolio purposes to demonstrate practical experience with AWS cloud infrastructure, automation, monitoring and troubleshooting in realistic environments.
 
 ---
 
