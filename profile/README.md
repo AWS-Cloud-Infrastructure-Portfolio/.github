@@ -1,6 +1,6 @@
-## AWS Infrastructure Portfolio
+## AWS Secure Infrastructure 
 
-This repository contains hands-on AWS infrastructure and automation projects demonstrating how to design, deploy and operate secure and reliable cloud environments, with a focus on IAM, networking, logging and monitoring, automation and incident response.
+This repository contains hands-on AWS secure infrastructure and automation projects demonstrating how to design, deploy and operate secure and reliable cloud environments, with a focus on IAM, networking, logging and monitoring, automation and incident response.
 
 ---
 
