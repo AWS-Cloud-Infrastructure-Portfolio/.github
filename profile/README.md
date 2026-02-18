@@ -12,7 +12,6 @@ This repository contains hands-on AWS secure infrastructure and automation proje
 | [cicd-security](https://github.com/AWS-Security-Portfolio/cicd-security)                       | CI/CD pipeline with access controls and security checks for AWS workloads.                                               |
 | [iam-foundations-lab](https://github.com/AWS-Security-Portfolio/iam-least-privilege)           | IAM users, roles and least-privilege policies applied to EC2 workloads.                                                  |
 | [ec2-hardening](https://github.com/AWS-Security-Portfolio/ec2-hardening)                       | Deploys and hardens EC2 with least-privilege IAM, secure SGs, SSM and CIS best practices.                                |
-| [aws-secure-observability-stack](https://github.com/AWS-Security-Portfolio/logging-monitoring) | Centralized logging and monitoring using CloudTrail, GuardDuty, CloudWatch, Config and Athena.                           |
 | [s3-security](https://github.com/AWS-Security-Portfolio/s3-security)                           | Secures S3 buckets with policies, encryption, and misconfiguration detection AWS Trusted Advisor.                        |
 | [incident-response](https://github.com/AWS-Security-Portfolio/incident-response)               | Automates detection and quarantine of compromised EC2s with GuardDuty, CloudTrail and Lambda.                            |
 
